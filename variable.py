@@ -12,3 +12,6 @@ sess.run(init)
 result =sess.run(var4)
 
 print(result)
+
+# BOOL
+# var=tf.Variable([True, True, False, True], dtype=bool)
